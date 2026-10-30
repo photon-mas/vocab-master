@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use Vocab MASter, please cite it as below."
+title: "Vocab MASter: an ad-free dictionary and thesaurus for GRE, IBA, TOEFL and everyday English"
+version: 2.0.0
+date-released: 2026-10-30
+license: MIT
+url: "https://al-shahriar-12.github.io/vocab-master/"
+repository-code: "https://github.com/Al-Shahriar-12/vocab-master"
+authors:
+  - family-names: "Al Shahriar"
+    given-names: "MD"
+    affiliation: "MAS Studio; Bangladesh University of Engineering and Technology (BUET)"

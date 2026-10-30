@@ -1,0 +1,35 @@
+{
+ "name": "Vocab MASter",
+ "short_name": "Vocab MASter",
+ "description": "Free, ad-free dictionary and thesaurus for GRE, IBA, TOEFL and everyday English: 6,483 full entries with Bangla meanings, ranked synonyms and five example sentences each. A MAS Studio app.",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "any",
+ "background_color": "#F2F5F3",
+ "theme_color": "#0B6E4F",
+ "lang": "en",
+ "categories": [
+  "education",
+  "books",
+  "reference"
+ ],
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
